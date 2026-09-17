@@ -1,0 +1,1 @@
+print("%.1f"%(sum(map(float,input().split()))/8))
